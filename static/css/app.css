@@ -1,0 +1,15 @@
+h1{
+    color: #454555;
+}
+
+p {
+    color: #AAAABC
+}
+
+a {
+    color: #AAAABC;
+}
+
+a:hover, a:focus, a:target {
+    color: #FF5D7A;
+}
